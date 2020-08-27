@@ -1,0 +1,30 @@
+body {
+    color: #686868;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding-top: 55px;
+    overflow-x: hidden;
+}
+h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #39999a;
+    padding: 50px;
+    margin-left: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.row {
+    padding-top: 55px;
+    text-align: center;
+}
+.error {
+    padding: 50px;
+    text-align: center;
+}
+input {
+    width: 100%;
+
+    margin: auto;
+    border: 2px solid brown;
+}

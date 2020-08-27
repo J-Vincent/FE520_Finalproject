@@ -1,0 +1,30 @@
+
+1. Topic
+Stock
+i nformation web interface.
+2. Motivation and insights you expect from data analysis
+We expect to learn more technologies to perform data analysis
+especially on stock profit or
+loss forecast. Morever, clear and intuitive presentation on the web page makes the results
+readable to the users.
+3. Related work
+We were learning MySQL to
+store, read and manage stock data . And we were studying flask
+the light weight web application framework to dis play the analysis of stock, so the customer
+can utilize more in f ormation to decide.
+4. Possible methodology
+1)
+Use HTML and Templates in Flask to a chieve the web server.
+2)
+Establish MySQL database Connection from Python.
+3)
+Use stock ananlysis index to brief report on stock movements
+(Reference indexes: ROE, K curve, volume, RSI, KDG and MACD
+
+To this steps to run this project : 
+1. git clone https://github.com/J-Vincent/FE520_Finalproject
+
+2. install requirements.txt dependencies pip install -r requirements.txt
+
+3. $ export FLASK_APP = 'project.py'
+   $ flask run
